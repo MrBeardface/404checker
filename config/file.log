@@ -1,0 +1,541 @@
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `read': No such file or directory @ rb_sysopen - ~/Desktop/404Checker/listofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `initialize': No such file or directory @ rb_sysopen - /Users/michaelbukowski/Desktop/404Checkerlistofurls.txt (Errno::ENOENT)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `open'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:10:in `<main>'
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+This mofo is empty.
+2017-06-09 14:17:16 -0400
+/Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `initialize': no implicit conversion of nil into String (TypeError)
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `open'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `block in connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:91:in `block in timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `call'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:878:in `connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:863:in `do_start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:858:in `start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:583:in `start'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:27:in `block in <main>'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `initialize': no implicit conversion of nil into String (TypeError)
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `open'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `block in connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:91:in `block in timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `call'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:878:in `connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:863:in `do_start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:858:in `start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:583:in `start'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:27:in `block in <main>'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `initialize': no implicit conversion of nil into String (TypeError)
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `open'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `block in connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:91:in `block in timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `call'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:878:in `connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:863:in `do_start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:858:in `start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:583:in `start'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:27:in `block in <main>'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `initialize': no implicit conversion of nil into String (TypeError)
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `open'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `block in connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:91:in `block in timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `call'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:878:in `connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:863:in `do_start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:858:in `start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:583:in `start'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:27:in `block in <main>'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `initialize': no implicit conversion of nil into String (TypeError)
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `open'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `block in connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:91:in `block in timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `call'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:878:in `connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:863:in `do_start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:858:in `start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:583:in `start'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:27:in `block in <main>'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `initialize': no implicit conversion of nil into String (TypeError)
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `open'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `block in connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:91:in `block in timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `call'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:878:in `connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:863:in `do_start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:858:in `start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:583:in `start'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:27:in `block in <main>'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `initialize': no implicit conversion of nil into String (TypeError)
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `open'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:879:in `block in connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:91:in `block in timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `call'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/timeout.rb:101:in `timeout'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:878:in `connect'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:863:in `do_start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:858:in `start'
+	from /Users/michaelbukowski/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net/http.rb:583:in `start'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:27:in `block in <main>'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+This mofo is empty.
+2017-06-09 14:25:19 -0400
+This mofo is empty.
+2017-06-09 14:26:13 -0400
+This mofo is empty.
+2017-06-09 14:27:18 -0400
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:38: syntax error, unexpected keyword_rescue, expecting keyword_end
+  rescue Timeout::Error
+        ^
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:40: syntax error, unexpected keyword_rescue, expecting keyword_end
+  rescue SocketError
+        ^
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:43: syntax error, unexpected keyword_end, expecting end-of-input
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:36: syntax error, unexpected keyword_rescue, expecting keyword_end
+  rescue Timeout::Error
+        ^
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:39: syntax error, unexpected keyword_rescue, expecting end-of-input
+  rescue Timeout::Error
+        ^
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:29:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:29:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:30:in `block in <main>': undefined method `request_head' for #<Net::HTTPOK 200 OK readbody=true> (NoMethodError)
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `each'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:24:in `<main>'
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:41: syntax error, unexpected keyword_rescue, expecting keyword_end
+  rescue Timeout::Error
+        ^
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:43: syntax error, unexpected keyword_rescue, expecting keyword_end
+  rescue SocketError
+        ^
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:46: syntax error, unexpected keyword_end, expecting end-of-input
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:39: syntax error, unexpected keyword_rescue, expecting end-of-input
+  rescue Timeout::Error
+        ^
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:38: syntax error, unexpected keyword_rescue, expecting end-of-input
+  rescue Timeout::Error
+        ^
+/Users/michaelbukowski/Desktop/404Checker/404checker.rb:38: syntax error, unexpected keyword_rescue, expecting end-of-input
+  rescue Timeout::Error
+        ^
+/Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:2005:in `body_lazy': undefined method `length' for #<Enumerator:0x007f9f72c29ae8> (NoMethodError)
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:1227:in `body='
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:1242:in `body'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:55:in `block in <main>'
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:133:in `instance_eval'
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:133:in `initialize'
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/mail.rb:51:in `new'
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/mail.rb:51:in `new'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:51:in `<main>'
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Camry-LE+Automatic-4T1BF1FK0HU4272
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+/Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:2005:in `body_lazy': undefined method `length' for #<Enumerator:0x007fa7bbba6070> (NoMethodError)
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:1227:in `body='
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:1242:in `body'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:55:in `block in <main>'
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:133:in `instance_eval'
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/message.rb:133:in `initialize'
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/mail.rb:51:in `new'
+	from /Users/michaelbukowski/.rvm/gems/ruby-2.0.0-p451/gems/mail-2.6.5/lib/mail/mail.rb:51:in `new'
+	from /Users/michaelbukowski/Desktop/404Checker/404checker.rb:51:in `<main>'
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Camry-LE+Automatic-4T1BF1FK0HU4272
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-L+CVT-5YFBURHE3HP675375
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-LE+CVT-2T1BURHEXHC796985 
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Corolla-LE+CVT-2T1BURHEXHC796985 
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+The broken list:
+http://www.classictoyotawilkesboro.com/new-Hickory-2017-Toyota-Tundra+2WD-SR5+Double+Cab+65+Bed+46L-5TFRM5F18HX11921
+This mofo is empty.
+2017-06-13 16:00:27 -0400
+This mofo is empty.
+2017-06-13 17:00:15 -0400
+This mofo is empty.
+2017-06-13 23:00:12 -0400
+This mofo is empty.
+2017-06-14 00:00:13 -0400
+This mofo is empty.
+2017-06-14 08:00:18 -0400
+This mofo is empty.
+2017-06-14 09:00:16 -0400
+This mofo is empty.
+2017-06-14 10:01:20 -0400
+This mofo is empty.
+2017-06-14 11:00:17 -0400
+This mofo is empty.
+2017-06-14 13:00:14 -0400
+This mofo is empty.
+2017-06-14 14:00:15 -0400
+This mofo is empty.
+2017-06-14 15:00:26 -0400
+This mofo is empty.
+2017-06-14 16:00:15 -0400
+This mofo is empty.
+2017-06-14 17:00:18 -0400
+This mofo is empty.
+2017-06-14 23:01:21 -0400
+This mofo is empty.
+2017-06-15 09:00:14 -0400
+This mofo is empty.
+2017-06-15 10:00:15 -0400
+This mofo is empty.
+2017-06-15 11:00:15 -0400
+This mofo is empty.
+2017-06-15 12:00:14 -0400
+This mofo is empty.
+2017-06-15 14:00:13 -0400
+This mofo is empty.
+2017-06-15 15:00:20 -0400
+This mofo is empty.
+2017-06-15 16:00:20 -0400
+This mofo is empty.
+2017-06-15 17:00:15 -0400
+This mofo is empty.
+2017-06-15 19:00:11 -0400
+This mofo is empty.
+2017-06-15 23:00:22 -0400
+This mofo is empty.
+2017-06-16 09:00:12 -0400
+This mofo is empty.
+2017-06-16 10:00:15 -0400
+This mofo is empty.
+2017-06-16 11:00:18 -0400
+This mofo is empty.
+2017-06-16 13:00:17 -0400
+This mofo is empty.
+2017-06-16 13:30:12 -0400
+This mofo is empty.
+2017-06-16 14:00:12 -0400
+This mofo is empty.
+2017-06-16 14:30:15 -0400
+This mofo is empty.
+2017-06-16 15:00:17 -0400
+This mofo is empty.
+2017-06-16 15:30:12 -0400
+This mofo is empty.
+2017-06-16 16:00:14 -0400
+This mofo is empty.
+2017-06-16 16:30:12 -0400
+This mofo is empty.
+2017-06-16 17:00:14 -0400
+This mofo is empty.
+2017-06-16 17:30:10 -0400
+This mofo is empty.
+2017-06-16 18:00:13 -0400
+This mofo is empty.
+2017-06-16 18:30:15 -0400
+This mofo is empty.
+2017-06-16 19:00:17 -0400
+This mofo is empty.
+2017-06-16 19:30:11 -0400
+This mofo is empty.
+2017-06-16 20:00:13 -0400
+This mofo is empty.
+2017-06-16 23:30:18 -0400
+This mofo is empty.
+2017-06-17 13:30:24 -0400
+This mofo is empty.
+2017-06-17 14:00:12 -0400
+This mofo is empty.
+2017-06-18 13:30:16 -0400
+This mofo is empty.
+2017-06-18 14:00:12 -0400
+This mofo is empty.
+2017-06-18 14:30:17 -0400
+This mofo is empty.
+2017-06-18 15:00:12 -0400
+This mofo is empty.
+2017-06-18 15:30:10 -0400
+This mofo is empty.
+2017-06-18 23:00:19 -0400
+This mofo is empty.
+2017-06-18 23:30:17 -0400
+This mofo is empty.
+2017-06-19 00:00:14 -0400
+This mofo is empty.
+2017-06-19 08:00:21 -0400
+This mofo is empty.
+2017-06-19 08:30:13 -0400
+This mofo is empty.
+2017-06-19 09:00:14 -0400
+This mofo is empty.
+2017-06-19 09:30:14 -0400
+This mofo is empty.
+2017-06-19 10:00:18 -0400
+This mofo is empty.
+2017-06-19 10:30:13 -0400
+This mofo is empty.
+2017-06-19 11:00:15 -0400
+This mofo is empty.
+2017-06-19 11:30:13 -0400
+This mofo is empty.
+2017-06-19 12:00:29 -0400
+This mofo is empty.
+2017-06-19 12:30:12 -0400
+This mofo is empty.
+2017-06-19 13:00:13 -0400
+This mofo is empty.
+2017-06-19 13:30:14 -0400
+This mofo is empty.
+2017-06-19 14:00:13 -0400
+This mofo is empty.
+2017-06-19 14:30:15 -0400
+This mofo is empty.
+2017-06-19 15:00:17 -0400
+This mofo is empty.
+2017-06-19 15:30:22 -0400
+This mofo is empty.
+2017-06-19 16:00:15 -0400
+This mofo is empty.
+2017-06-19 16:30:14 -0400
+This mofo is empty.
+2017-06-19 17:00:14 -0400
+This mofo is empty.
+2017-06-19 17:30:15 -0400
+This mofo is empty.
+2017-06-19 18:00:14 -0400
+This mofo is empty.
+2017-06-19 19:30:13 -0400
